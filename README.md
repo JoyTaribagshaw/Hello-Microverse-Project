@@ -138,9 +138,9 @@ sh
 
 👤 *Author1*
 
-- GitHub: [@githubhandle](https://github.com/JoyTaribagshaw)
-- Twitter: [@twitterhandle](https://twitter.com/JoyTariBagshaw)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/JoyTari-bagshaw)
+- GitHub: [Joy](https://github.com/JoyTaribagshaw)
+- Twitter: [Joy](https://twitter.com/JoyTariBagshaw)
+- LinkedIn: [Joy](https://linkedin.com/in/JoyTari-bagshaw)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
