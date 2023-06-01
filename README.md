@@ -24,7 +24,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-*html basic* is about how to code.
+*html basic* is about how to code better..
 
 ## 🛠 Built With <a name="built-with"></a>
 
